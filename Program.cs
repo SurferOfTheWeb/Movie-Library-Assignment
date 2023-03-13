@@ -1,4 +1,6 @@
-﻿// create instance of Logger
+﻿// I was unable to implement NLog support, I don't know why
+
+// create instance of Logger
 string movieFilePath = Directory.GetCurrentDirectory() + "\\movies.csv";
 
 // ask for input
